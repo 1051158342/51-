@@ -1,0 +1,7 @@
+#include<reg52.h>
+sbit p07=P0^7;
+int  main()
+{
+	p07=0;
+	return 0;
+}						
